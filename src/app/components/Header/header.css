@@ -1,0 +1,14 @@
+header {
+  background: linear-gradient(135deg, #D56699, rgba(91, 201, 234, 0.7)); 
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  gap: 20px;
+  color: white;
+  padding: 20px; 
+  border-bottom: 2px solid #ffffff; 
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5); 
+  border-radius: 0px 0px 20px 20px; 
+}
